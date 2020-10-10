@@ -1,0 +1,49 @@
+h2{
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	color: black;
+	margin: 50px;
+	background-color: grey;
+	width: 150px;
+	opacity: 0.9;
+}
+
+
+table{
+	border: 2px solid black;	
+	border-collapse: collapse;
+	margin: 50px;
+	width: 50%;
+	opacity: 0.9;
+}
+
+
+td,th{
+	border: 1px solid black;
+	text-align: center;
+}
+
+th{
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	padding: 10px;
+	background-color: grey;
+}
+
+td{
+	font-family: Arial, sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	padding: 10px;
+	background-color: lightgrey;
+}
+
+#orange{
+	color: orange;
+}
+
+.classWhite{
+	color: white;
+}

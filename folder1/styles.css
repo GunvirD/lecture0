@@ -1,0 +1,46 @@
+h1{
+	color:blue;
+	text-align: center;
+}
+
+div{
+	background: darkgrey;
+	color:lightgrey;
+	
+	text-align: center;
+	
+
+	height:500px;
+	width: 500px;
+	
+
+	margin:50px;
+	padding: 20px;
+
+	font-family: Arial, sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+
+	border: 5px solid black;
+}
+
+
+p{
+	text-align: center;
+
+	height: 500px;
+	width: 500px;
+
+	background: darkgrey;
+
+	font-family: Arial, sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	color: lightgrey;
+
+	margin: 50px;
+	padding: 20px;
+
+	border: 5px dotted black;
+
+}
